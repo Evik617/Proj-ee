@@ -4,10 +4,61 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71ab1684-5476-41e8-bf81-531eb9462743" name="Changes" comment="Add file">
+    <list default="true" id="71ab1684-5476-41e8-bf81-531eb9462743" name="Changes" comment="Add port">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/instance/ваша_база_данных.db" beforeDir="false" afterPath="$PROJECT_DIR$/instance/ваша_база_данных.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bonuses/ball.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bonuses/book.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bonuses/flask.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/character_select/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/characters/boy/run_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/characters/boy/run_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/characters/boy/run_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/characters/boy/run_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/characters/boy/run_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/characters/boy/run_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/characters/girl/run_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/characters/girl/run_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/characters/girl/run_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/characters/girl/run_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/characters/girl/run_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/characters/girl/run_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/your_font.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/levels/level_1/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/levels/level_2/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/levels/level_3/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/other/end_screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/other/final_screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/other/first_screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/other/level_1_start.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/other/level_2_start.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/other/level_3_start.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/other/who_screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/start_screen/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extensions.py" beforeDir="false" afterPath="$PROJECT_DIR$/extensions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/instance/schedule.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/instance/site.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/instance/ваша_база_данных.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrations/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrations/alembic.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrations/env.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrations/script.py.mako" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrations/versions/397a19e7865d_add_is_admin_column_to_user_table.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrations/versions/713a2731ab3f_add_accessibility_settings_configured_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrations/versions/76c2dfaa6c93_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/routes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/appointments.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/appointments.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/booking.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/booking.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/game.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/game_info.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/teacher_availability.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/teacher_availability.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/teacher_dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/teacher_dashboard.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,12 +68,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -33,20 +88,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/evelina/PycharmProjects/pythonProject100&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/evelina/PycharmProjects/pythonProject100/templates",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/migrations" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -138,11 +196,31 @@
       <option name="project" value="LOCAL" />
       <updated>1740265522704</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add port">
+      <option name="closed" value="true" />
+      <created>1740330824433</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740330824433</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add file" />
+    <MESSAGE value="Add port" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add port" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/migrations/env.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
